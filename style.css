@@ -40,7 +40,7 @@ main {
 
 nav ul {
     display: flex;
-    gap: 20px;
+    gap: 10px;
 }
 
 nav a,
@@ -61,22 +61,22 @@ nav a:hover,
     color: wheat;
 }
 
-.block {
+.block, .block2{
     background-color: wheat;
-    padding: 10px;
+    padding: 20px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.homework_list {
+.homework_list, .homework_list2 {
     display: flex;
     flex-wrap: wrap;
     gap: 40px;
 }
 
-.homework_list a {
+.homework_list a, .homework_list2 a  {
     display: flex;
     justify-content: center;
     align-items: center;

@@ -1,0 +1,23 @@
+body {
+    background-color: #80BE90;
+  }
+  
+  .circle {
+      position: relative;
+      margin: 30px auto;
+    width: 300px;
+      height: 300px;
+      border-radius: 50%;
+      background-color: #FFA41B;
+  }
+  .circle::before {
+      content:"";
+    position: absolute;
+      width: 150px;
+      height: 150px;
+      top: 25%;
+      left: 25%;
+      border-radius: 50%;
+      background-color: black;
+  }
+  

@@ -1,0 +1,47 @@
+#block-big {
+	margin: 20px auto;
+	width: 440px;
+	height: 200px;
+	background-color:  #40E0D0;
+	position: relative;
+}
+#block1 {
+	position: absolute;
+	background-color: white;
+	width:15px;
+	height: 160px;
+	top: 20px;
+	left: 40px;
+}
+#block2 {
+	position: absolute;
+	background-color: white;
+	width:35px;
+	height: 160px;
+	top: 20px;
+	left: 65px;
+}
+#block3 {
+	position: absolute;
+	background-color: white;
+	width:50px;
+	height: 160px;
+	top: 20px;
+	left: 110px;
+}
+#block4 {
+	position: absolute;
+	background-color: white;
+	width:90px;
+	height: 160px;
+	top: 20px;
+	left: 170px;
+}
+#block5 {
+	position: absolute;
+	background-color: white;
+	width:130px;
+	height: 160px;
+	top: 20px;
+	left: 270px;
+}

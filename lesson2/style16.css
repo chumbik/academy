@@ -1,0 +1,23 @@
+body {
+	background-image: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+}
+p {
+	text-align: justify;
+	padding-left: 150px;
+	text-indent: 50px;
+}
+#block {
+	border: 1px solid black;
+	background: white;
+	left: 20px;
+	top: 200px;
+	width: 100px;
+	position:fixed;
+	text-align:center;
+	}
+a {
+	text-decoration: none;	
+	}
+a:link {
+  color: black;
+}

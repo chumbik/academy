@@ -1,0 +1,20 @@
+section {  background:#E0F8E0;
+    width:800px;
+    font-size:22px;
+   border: 1px solid #58FA82;
+   font:Times,seriff;
+   line-height:30px;
+   padding:0 0 0 10px;
+   }
+.line1 {color:#0000FF;}	
+.line2 {color:#04B404;
+       font-size:18px;
+      }
+.pict1 {
+    float:left;
+    margin:20px 20px 0 10px;
+   }
+.pict2 {
+    float:right;
+    margin:15px 10px 0 0;
+      }	

@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-size: 14px;
+    font-family: sans;
+ }
+ nav {
+    width: 840px;
+    margin: 10px;
+    background-color: #595551;
+    border-top: 5px solid #DB2A2E;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+ }
+ ul {
+    margin: 0;
+    padding-left: 10px;
+    list-style: none;
+    display: block;
+ }
+ li {
+    display: inline-block;
+ }
+ a {
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+ }

@@ -1,0 +1,18 @@
+body {
+    background-color: #A1AB91;
+ }
+ 
+ .front {
+    width: 160px;
+    padding: 40px 80px 40px 70px;
+    height: 10px;
+    margin: 40px auto;
+    background-color: #008F4D;
+    border-radius: 5px;
+    box-shadow: 10px 10px 2px 2px #8A0000;
+ }
+ span {
+     display: inline-block;
+     width: 180px;
+     word-spacing: 20px;
+ }
